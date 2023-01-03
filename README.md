@@ -22,5 +22,6 @@ HAPPY CODING!
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-##Contributors
-[![](https://sourcerer.io/fame/$king101-bit/$king101-bit/$Python-projects-for-beginners-/images/0)](https://sourcerer.io/fame/$king101-bit/$king101-bit/$Python-projects-for-beginners-/links/0)
+## Contributors
+[![](https://sourcerer.io/fame/$USER/$OWNER/$REPO/images/0)](https://sourcerer.io/fame/$USER/$OWNER/$REPO/links/0)
+
